@@ -1,0 +1,11 @@
+{
+  "markets": "Markets",
+  "search": "Search Coin Pairs",
+  "all": "All",
+  "favorites": "Favorites",
+  "unexpectedState": "Unexpected state",
+  "error": "Error",
+  "trade": "Trade",
+  "portfolio": "Portfolio",
+  "account": "Account"
+}
